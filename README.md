@@ -1,12 +1,11 @@
 This project give an introduction into Openlane flow where each step is excecuted in an interactive way using the already existing design of RISC-V 32bit processor named "picorv32a". The open source eda flow involves may steps such as run_synthesis, run_floorplan, run_placement etc. Some of the intances of the outputs obtained from these steps are shown below.
 
-![Screenshot_01 synthesis_run](https://github.com/user-attachments/assets/41ef025d-b6b9-4034-ac61-ecec192e1dd0) 
 ![Screenshot_02 synthesis statics report](https://github.com/user-attachments/assets/4ea65e30-d4db-4435-91ca-b9aef1b93985) 
 ![Screenshot_03 STA timing report](https://github.com/user-attachments/assets/927ba54b-84db-4997-a4b3-2f5970ac7754) 
 ![Screenshot_04 floorplan_run](https://github.com/user-attachments/assets/955e0ea9-236e-4278-bebf-26ff4d61b990) 
 ![Screenshot_05 magic_floorplan](https://github.com/user-attachments/assets/01e2bca5-49c5-4aac-b809-01663ed6ae7f)
 ![Screenshot_06 placement_run](https://github.com/user-attachments/assets/e4e6f42a-6f58-4363-a6d3-a988c94fd2f6)
-![Uploading Screenshot_07 magic_placement.png…]()
+![Screenshot_07 magic_placement](https://github.com/user-attachments/assets/e80f7816-94d3-4614-95fb-f1fb067d3544)
 
 
 Additionally, a standard cell for inverter (sky130_vsdinv) was custom desgined using magic and then it was chracterized. 
