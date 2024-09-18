@@ -15,7 +15,7 @@ Additionally, a standard cell for inverter (sky130_vsdinv) was custom desgined u
 ![Screenshot_10 inv dynamic chara](https://github.com/user-attachments/assets/59c0d38f-7c7d-4f3d-a5ba-0db069f4c28c)
 
 
-The lef file of the new inverter was written and it was introducing into the picorv32a design. The files describing its extensive characteristics of the inverter were also added into the flow. The results obtained after run_synthesis command ensured that sky130_vsdinv was utilized in the net generation.
+The lef file of the sky130_vsdinv was written and it was introduced into the picorv32a design flow. The files describing the extensive characteristics of the inverter were also added into the flow. The results obtained after run_synthesis command ensured that sky130_vsdinv was utilized in the automated net generation.
 
 ![Screenshot11 vsdinv introduced](https://github.com/user-attachments/assets/c00dffae-5fd7-490a-92d1-47200bf2b8fe)
 ![Screenshot12 sky130_vsdinv placed](https://github.com/user-attachments/assets/843af244-7416-4b11-927c-b4f9453d09b3)
